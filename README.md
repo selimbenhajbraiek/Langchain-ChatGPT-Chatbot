@@ -27,6 +27,6 @@ This project fetches your website content, converts it into embeddings, stores t
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/langchain-web-chatbot.git
-cd langchain-web-chatbot
+git clone https://github.com/selimbenhajbraiek/Langchain_chatbot.git
+cd Langchain_chatbot
 pip install -r requirements.txt
